@@ -4,6 +4,7 @@ I am a devoted and reliable aspiring software developer with a keen interest in 
 - 🌱 I’m currently learning Java, sorting and searching algorithms.
 - 🌱 I'm planning to expand my skillset with front-end frameworks, JSON, CSS frameworks and many more.
 - ⚡ Technologies and tools: HTML, CSS, JS, Java, VS Code, NetBeans, Eclipse, GitBash, OOP, Agile, UML, LucidChart, draw.io, Visual Paradigm, Bootstrap.
+- 📫 How to reach me: https://www.linkedin.com/in/nvaradi/
 <!--
 **NikolettVar/NikolettVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
