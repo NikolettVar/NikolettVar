@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Nikolett 
+I am a devoted and reliable aspiring software developer with a keen interest in front-end development, relational databases and Java.
 
 <!--
 **NikolettVar/NikolettVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
