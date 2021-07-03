@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Nikolett 
 I am a devoted and reliable aspiring software developer with a keen interest in front-end development, relational databases and Java.
+As a computing student my GitHub is mostly made up of college projects.
+
 - 🔭 I’m currently undertaking a Higher Diploma in Computing in Software Development course @NCI.
 - 🌱 I’m currently learning Java, sorting and searching algorithms.
 - 🌱 I'm planning to expand my skillset with front-end frameworks, JSON, CSS frameworks and many more.
