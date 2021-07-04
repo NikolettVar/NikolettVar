@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Nikolett 
+### Dear Visitor, welcome to my GitHub!
+
 I am a devoted and reliable aspiring software developer with a keen interest in front-end development, relational databases and Java.
 As a computing student my GitHub is mostly made up of college projects.
 
