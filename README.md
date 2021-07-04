@@ -8,6 +8,7 @@ As a computing student my GitHub is mostly made up of college projects.
 - I'm planning to expand my skillset with front-end frameworks, responsive web design & mobile first development, JSON, and many more.
 - Technologies and tools: HTML, CSS, JS, BootStrap, Java, VS Code, NetBeans, Eclipse, GitBash, OOP, Agile, UML, LucidChart, draw.io, Visual Paradigm, Bootstrap.
 - https://www.linkedin.com/in/nvaradi/
+- jagldgh
 <!--
 **NikolettVar/NikolettVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
